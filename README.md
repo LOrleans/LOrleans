@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=007acc&height=200&section=header&text=Lucas%20Orleans&fontSize=70&animation=fadeIn" width="100%" />
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Lucas+Orleans;Web+Developer;Data+Science+Enthusiast" alt="Typing SVG" />
 
 ## Hi, I'm Lucas! 👋
 
